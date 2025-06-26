@@ -1,0 +1,8 @@
+
+/.vscode
+/venv
+/model_comparison.png
+/spam_classifier_model.pkl
+/training_time_comparison.png
+/.git
+/additional.py
