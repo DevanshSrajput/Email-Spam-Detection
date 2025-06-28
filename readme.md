@@ -55,12 +55,7 @@ P1--Email_Spam/
    ```powershell
    streamlit run app.py
    ```
-
-   Or, if you’re feeling fancy:
-
-   ```powershell
-   python run_app.py
-   ```
+   
 
 4. **Open your browser** (if it doesn’t open automatically) and go to:
    [http://localhost:8501](http://localhost:8501)
