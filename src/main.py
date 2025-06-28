@@ -9,7 +9,7 @@ def main():
     """
     # Set the path to your dataset
     # For example, using the SpamAssassin public corpus or Enron dataset
-    data_path = r'C:\Users\Devansh Singh\OneDrive\Desktop\Tamizhan Skills\spam_detection\SMS_Spam.csv'  # Replace with your dataset path
+    data_path = r'C:\Users\Devansh Singh\OneDrive\Desktop\Tamizhan Skills\P1--Email_Spam\SMS_Spam.csv'  # Replace with your dataset path
     
     # Compare models
     nb_classifier, svm_classifier, metrics_df = compare_models(
