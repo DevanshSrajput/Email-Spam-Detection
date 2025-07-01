@@ -4,6 +4,16 @@ Welcome to the **Email Spam Detection System** – the only place where your ema
 
 ---
 
+## 🎬 Video Walkthrough
+
+> <b>Watch the magic happen:</b>
+>
+> [![Demo Video](https://github.com/DevanshSrajput/Email-Spam-Detection/blob/main/Email-Spam-Detection.png)](https://youtu.be/kaRiQhI4q-M)
+>
+> <i>Click the thumbnail above to see a full walkthrough of the Email Spam Detection System in action!</i>
+
+---
+
 ## 🚀 Features
 
 - **Modern Streamlit UI**: Because you deserve more than a command line.
@@ -64,11 +74,6 @@ P1--Email_Spam/
 
 ---
 
-## 🎬 Demo Video
-
-_Coming soon! (Or maybe not. Depends on how lazy the author is.)_
-
----
 
 ## 🤔 FAQ (Frequently Annoying Questions)
 
