@@ -14,6 +14,11 @@ Welcome to the **Email Spam Detection System** – the only place where your ema
 
 ---
 
+## 📸 Screenshots
+> **Want a sneak peak:**
+
+> <img src="Screenshots/Dashboard.png"> <img src="Screenshots/Dataset_Analysis.png"> <img src="Screenshots/Detection.png"> <img src="Screenshots/Model_Comparison.png"> <img src="Screenshots/Model_Training.png"> <img src="Screenshots/Recommendation.png"> <img src="Screenshots/Setting.png">
+
 ## 🚀 Features
 
 - **Modern Streamlit UI**: Because you deserve more than a command line.
