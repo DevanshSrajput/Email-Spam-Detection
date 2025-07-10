@@ -15,9 +15,16 @@ Welcome to the **Email Spam Detection System** – the only place where your ema
 ---
 
 ## 📸 Screenshots
-> **Want a sneak peak:**
 
-> <img src="Screenshots/Dashboard.png"> <img src="Screenshots/Dataset_Analysis.png"> <img src="Screenshots/Detection.png"> <img src="Screenshots/Model_Comparison.png"> <img src="Screenshots/Model_Training.png"> <img src="Screenshots/Recommendation.png"> <img src="Screenshots/Setting.png">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="Screenshots/Dashboard.png" width="200"/>
+  <img src="Screenshots/Dataset_Analysis.png" width="200"/>
+  <img src="Screenshots/Detection.png" width="200"/>
+  <img src="Screenshots/Model_Comparison.png" width="200"/>
+  <img src="Screenshots/Model_Training.png" width="200"/>
+  <img src="Screenshots/Recommendation.png" width="200"/>
+  <img src="Screenshots/Setting.png" width="200"/>
+</div>
 
 ## 🚀 Features
 
@@ -70,7 +77,6 @@ P1--Email_Spam/
    ```powershell
    streamlit run app.py
    ```
-   
 
 4. **Open your browser** (if it doesn’t open automatically) and go to:
    [http://localhost:8501](http://localhost:8501)
@@ -78,7 +84,6 @@ P1--Email_Spam/
 5. **Click around, upload stuff, break things, and enjoy!**
 
 ---
-
 
 ## 🤔 FAQ (Frequently Annoying Questions)
 

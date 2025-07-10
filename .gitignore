@@ -1,0 +1,10 @@
+
+/.git
+/.vscode
+/venv
+/model_comparison.png
+/spam_classifier_model.pkl
+/spam_classifier_nb.pkl
+/spam_classifier_svm.pkl
+/spam_ham_dataset.csv
+/training_time_comparison.png
